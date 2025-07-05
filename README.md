@@ -3,6 +3,8 @@
 ## Disclaimer
 This code was written for a university assignment at Curtin Univserit. It is shared for educational and portfolio purposes only. Please do not copy or submit any part of this work for academic credit, as that may violate academic integrity policies.
 
+## Intro
+
 Input text document 9x9 grid of sudoku solution to check. Program uses multithreading with mutex to check solution properly. If solution invalid, it tells you what's wrong with it. 
 
 To compile my program please use the provided makefile by using the make command. 
