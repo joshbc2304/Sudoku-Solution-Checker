@@ -8,6 +8,7 @@ To run my program use ./mssv <solution.txt> <delay 1-10> where you can choose be
 Provided solution.txt and solution2.txt are valid, solution3.txt and solution4.txt are invalid. 
 
 Example of solution3.txt
+
 ![picture](https://github.com/user-attachments/assets/d4953c99-a431-4d4e-85b2-74b082006485)
 
 
